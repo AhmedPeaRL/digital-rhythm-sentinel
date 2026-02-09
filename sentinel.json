@@ -1,0 +1,8 @@
+{
+  "entity": "Digital Rhythm Sentinel",
+  "role": "Temporal Witness",
+  "agency": "none",
+  "update_policy": "allowance_only",
+  "interaction": "forbidden",
+  "silence": "valid"
+}
