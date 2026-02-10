@@ -20,3 +20,17 @@ No performance metrics.
 Only rhythm.
 Only presence.
 
+---
+
+# Digital Rhythm Sentinel
+
+A non-interactive presence.
+A witness system.
+A sealed rhythm.
+
+This repository is complete as-is.
+
+No roadmap.
+No promises.
+No calls to action.
+
